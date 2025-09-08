@@ -170,7 +170,7 @@ python-dotenv
 
 ## 📫 Contact
 
-Developed by **Yash Gautam** [reach out on GitHub (Mine)](https://github.com/04yashgautam) & **Harsh Jha** [reach out on GitHub (His)](https://github.com/Indvein) 
+Developed by **Yash Gautam** [reach out on GitHub ](htts://github.com/04yashgautam) & **Harsh Jha** [reach out on GitHub ](https://github.com/Indvein) 
 
 — feel free to for bugs or suggestions.
 
